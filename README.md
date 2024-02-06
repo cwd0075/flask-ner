@@ -38,3 +38,8 @@ https://colab.research.google.com/github/damorimRG/practical_testing_book/blob/m
 https://dsxl4aiml.medium.com/how-to-do-pytest-unittest-in-colab-colaboratory-notebook-for-data-scientists-c911919e7d9d  
 https://lubna2004.medium.com/introduction-to-testing-with-pytest-on-colab-4e66e39b05bc  
 
+### Testing on Github Codespaces
+https://learning.oreilly.com/videos/pytest-tips-video/60655VIDEOPAIML/60655VIDEOPAIML-c2_s1/  
+
+
+
