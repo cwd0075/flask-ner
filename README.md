@@ -2,9 +2,11 @@
 Python test driven development  
 https://www.youtube.com/watch?v=eAPmXQ0dC7Q  
 https://github.com/wesdoyle/flask-ner  
+https://docs.digitalocean.com/products/droplets/how-to/transfer-files/  
 
 create the cheapest droplet on digitalocean  
 login as root using putty, with privat.ppk key on evernote  
+use FileZilla to download and upload files  
 
 ### ENVIRONMENT SETUP  
 mkdir flask-ner  
