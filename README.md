@@ -32,6 +32,8 @@ vi ner_client.py
 :wq  
 
 ### Reference of running TTD on Colab notebook
+https://learning.oreilly.com/videos/pytest-tips-video/60655VIDEOPAIML/60655VIDEOPAIML-c1_s1/  
+
 https://colab.research.google.com/github/damorimRG/practical_testing_book/blob/master/testgranularity/unittesting.ipynb  
 https://dsxl4aiml.medium.com/how-to-do-pytest-unittest-in-colab-colaboratory-notebook-for-data-scientists-c911919e7d9d  
 https://lubna2004.medium.com/introduction-to-testing-with-pytest-on-colab-4e66e39b05bc  
