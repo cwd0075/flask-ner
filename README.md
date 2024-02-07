@@ -32,6 +32,15 @@ cd ..
 vi ner_client.py  
 :wq  
 
+###Run in Github Codespaces  
+Run Proton VPN  
+Start Codespaces  
+pip install pytest  
+python -m pytest  
+
+https://www.youtube.com/watch?v=kvJf8s18Vr4  
+
+
 
 
 
