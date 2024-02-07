@@ -31,8 +31,7 @@ cd ..
 vi ner_client.py  
 :wq  
 
-### Testing on Github Codespaces
-https://learning.oreilly.com/videos/pytest-tips-video/60655VIDEOPAIML/60655VIDEOPAIML-c2_s1/  
+
 
 
 
