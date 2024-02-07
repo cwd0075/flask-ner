@@ -11,7 +11,8 @@ use FileZilla to download and upload files
 ### ENVIRONMENT SETUP  
 mkdir flask-ner  
 cd flask-ner  
-virtualenv env -p python3  
+virtualenv env -p python3
+source env/bin/activate
 pip install spacy selenium pytest flask  
 python -m spacy download en_core_web_sm  
 mkdir static templates test  
